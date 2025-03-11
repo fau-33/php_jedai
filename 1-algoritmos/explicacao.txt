@@ -1,0 +1,3 @@
+Como pensar como programador ?
+ - Pense em etapas
+ - Pense nas ações de cada etapa
